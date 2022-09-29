@@ -1,1 +1,1 @@
-# 15 Vanilla Javascript Project to sharpen your skills.
+# 15 Vanilla Javascript Projects
